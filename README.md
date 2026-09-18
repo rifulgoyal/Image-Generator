@@ -6,3 +6,5 @@ Design Decisions:
 Explicit Form Controls & Reset Button: Included a dedicated reset (Clear) button alongside the submit button inside the search form to let users clear their queries quickly without manual backspacing.
 
 Persistent Visual Feedback Elements: Embedded dedicated <p> tags for status updates and result counts (Showing "10" results) directly into the DOM structure to ensure immediate state updates without causing UI layout shifts.
+
+More updates Coming soon .
